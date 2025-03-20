@@ -20,11 +20,11 @@ const routeList: RouteProps[] = [
 		label: "Home",
 	},
 	{
-		href: "#team",
+		href: "/team",
 		label: "Team",
 	},
 	{
-		href: "#testimonials",
+		href: "/testimonials",
 		label: "Testimonials",
 	},
 ];
