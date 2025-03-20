@@ -45,3 +45,4 @@ model Subscription {
 
   User User @relation(fields: [userId], references: [id])
 }
+
