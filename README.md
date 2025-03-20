@@ -1,26 +1,29 @@
 🚀 Stripe Subscriptions Course
 <p align="center"> <img src="/public/demo-for-readme.png" alt="Demo App" width="600px"> </p>
 
-![Demo App](/public/demo-for-readme.png)
 
 
-⚡ Features
-🔥 Tech Stack: Next.js 14, TypeScript, Prisma, MongoDB, Stripe
-🔐 Authentication: Kinde Auth integration
-💸 Subscriptions: Monthly & Annual plans using Stripe
-💵 Billing Portal: Stripe-powered customer billing portal
-🛠️ Webhooks: Handling real-time payment updates
-🔄 Stripe Events: Managing subscription lifecycle
-🌗 Theme Support: Light/Dark mode toggle
-🌐 Deployment Guide: Step-by-step hosting instructions
-📂 Project Setup
-1️⃣ Clone the repository
-sh
-Copy code
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
-2️⃣ Create a .env file
-Set up your environment variables in a .env file:
+# Choose Your **PLAN**  
+Find the perfect plan for your needs.
+
+## ⚡ Features  
+- 🔥 **Tech Stack:** Next.js 14, TypeScript, Prisma, MongoDB, Stripe  
+- 🔐 **Authentication:** Kinde Auth integration  
+- 💳 **Subscriptions:** Monthly & Annual plans using Stripe  
+- 🏦 **Billing Portal:** Stripe-powered customer billing portal  
+- 🛠️ **Webhooks:** Handling real-time payment updates  
+- 🔄 **Stripe Events:** Managing subscription lifecycle  
+- 🎨 **Theme Support:** Light/Dark mode toggle  
+- 🌍 **Deployment Guide:** Step-by-step hosting instructions  
+
+---
+
+## 📦 **Project Setup**  
+### 1️⃣ Clone the Repository  
+```sh
+git clone https://github.com/luffy229/stripe_subscription.git
+cd stripe_subscription
+
 
 ini
 Copy code
