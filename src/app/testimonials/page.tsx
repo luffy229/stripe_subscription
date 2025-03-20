@@ -71,8 +71,8 @@ const TestimonialsPage = () => {
             className="bg-black p-6 rounded-xl shadow-lg border border-transparent hover:border-yellow-400 transition duration-300 hover:scale-105"
           >
             <p className="text-lg italic text-gray-300">
-              "An incredible developer! Transformed our vision into reality
-              with stunning UI and seamless functionality."
+              &quot;An incredible developer! Transformed our vision into reality
+              with stunning UI and seamless functionality.&quot;
             </p>
             <h3 className="mt-4 font-bold text-yellow-400">– John Doe</h3>
           </motion.div>
@@ -86,8 +86,8 @@ const TestimonialsPage = () => {
             className="bg-black p-6 rounded-xl shadow-lg border border-transparent hover:border-purple-400 transition duration-300 hover:scale-105"
           >
             <p className="text-lg italic text-gray-300">
-              "Superb work! The attention to detail and performance
-              optimizations made all the difference."
+              &quot;Superb work! The attention to detail and performance
+              optimizations made all the difference.&quot;
             </p>
             <h3 className="mt-4 font-bold text-purple-400">– Jane Smith</h3>
           </motion.div>
@@ -101,8 +101,8 @@ const TestimonialsPage = () => {
             className="bg-black p-6 rounded-xl shadow-lg border border-transparent hover:border-blue-400 transition duration-300 hover:scale-105"
           >
             <p className="text-lg italic text-gray-300">
-              "A pleasure to work with! Brings creativity and problem-solving
-              skills to every project."
+              &quot;A pleasure to work with! Brings creativity and problem-solving
+              skills to every project.&quot;
             </p>
             <h3 className="mt-4 font-bold text-blue-400">– Alex Johnson</h3>
           </motion.div>
