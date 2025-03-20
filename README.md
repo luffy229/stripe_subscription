@@ -21,8 +21,8 @@ Find the perfect plan for your needs.
 ## 📦 **Project Setup**  
 ### 1️⃣ Clone the Repository  
 ```sh
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/luffy229/stripe_subscription.git
+cd stripe_subscription
 
 
 ini
